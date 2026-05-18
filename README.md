@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-exit-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for No Exit Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-exit-love/) |
+| **Get License** | [Commercial Licensing for No Exit Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-exit-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `30168e0460564132490f0c16b6428b6f6316485f552734316d223e484a24f255` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
