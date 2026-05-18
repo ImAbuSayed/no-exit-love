@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de vicho padh le tu meri hidden emotion ni
+> Sari raat takda main rehnda like a deep ocean ni
+> Zulfan da kaala jaal tera deadly attraction ae
+> Seene vich machda pyar da fatal reaction ae
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
